@@ -1,4 +1,4 @@
-# NDVI-Based Predator-Prey Simulation
+# BioFlux: Reinforcement Learning for Ecological Modeling
 
 ## Overview
 This project integrates NDVI (Normalized Difference Vegetation Index) data to simulate the complex interactions between vegetation, herbivores, and carnivores. The simulation employs an underlying reinforcement learning agent to model population dynamics and ecological balance, with the goal of visualizing these interactions as a heat map.
